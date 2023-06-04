@@ -1,8 +1,6 @@
 # E-commerce Back End Starter Code
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40renansm93-green)
-
-App for business to be more organized. Using this app the business will be able to view and manage their employees, departments and roles so that they can organize and plan their business better.
+Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
 ## Table of Contents
   * [Installation](#installation)
@@ -22,23 +20,27 @@ https://github.com/renansm93/ORM-E_commerce_Back_End
 
 ## Usage
 
-- Step 1: Before running hte program you will need to create a ".env" file. On this filw you will need to have the following 
+Step 1: Before running the program you will need to create a ".env" file. On this file you will have the following variables:
 
-* ![Step_1](images/Step_1.png)
+* DB_USER = "YOUR MYSQL USERNAME (usually called roots)
+* DB_PW = "YOUR MYSQL PASSWORD"
+* DB_NAME = ecommerce_db
 
-- Step 2: In the MySQL CLI, type 'source db/schema.sql'.
+ ![Step_1](images/.env.png)
+
+- Step 2: Follow the steps according to the video bellow.
 
 * ![Step_2](images/Step_2.png)
 
-- Step 3: In the MySQL CLI, type 'source db/seed.sql'.
+- Step 3: To Update, create and get any information about products, open Insomnia and follow the steps accroding to the video bellow.
 
 * ![Step_3](images/Step_3.png)
 
-- Step 4: In the MySQL CLI, type quit to leave the MySQL.
+- Step 4: To Update, create and get any information about Categories, open Insomnia and follow the steps accroding to the video bellow.
 
 * ![Step_4](images/Step_4.png)
 
-- Step 5: Run 'node server.js' in the terminal.
+- Step 5: To Update, create and get any information about Tags, open Insomnia and follow the steps accroding to the video bellow.
 
 * ![Step-5](images/Step_5.png)
 
@@ -55,6 +57,7 @@ This application is covered by the ![GitHub license](https://img.shields.io/badg
 
 ## Contributing
 
+* Xandromus
 * renansm93
 * Any improvements or advice are always welcome.
 
