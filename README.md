@@ -28,21 +28,21 @@ Step 1: Before running the program you will need to create a ".env" file. On thi
 
  ![Step_1](images/.env.png)
 
-- Step 2: Follow the steps according to the video bellow.
+- Step 2: Follow the steps according to the video bellow:
 
-* ![Step_2](images/Step_2.png)
+https://drive.google.com/file/d/1Gjc-xW-U-Z0c-PQAV6k50DZH3uCgjK-y/view?usp=sharing
 
-- Step 3: To Update, create and get any information about products, open Insomnia and follow the steps accroding to the video bellow.
+- Step 3: To Update, create, delete and get any information about "Products", open Insomnia and follow the steps accroding to the video bellow.
 
-* ![Step_3](images/Step_3.png)
+https://drive.google.com/file/d/1rmFiXPcocZ9m5-y8bCsc5chC7kIfKB6c/view?usp=sharing
 
-- Step 4: To Update, create and get any information about Categories, open Insomnia and follow the steps accroding to the video bellow.
+- Step 4: To Update, create, delete and get any information about "Categories", open Insomnia and follow the steps accroding to the video bellow.
 
-* ![Step_4](images/Step_4.png)
+https://drive.google.com/file/d/156J8CXaaJiqDvzuCe3av89bknnEdO6yJ/view?usp=sharing
 
-- Step 5: To Update, create and get any information about Tags, open Insomnia and follow the steps accroding to the video bellow.
+- Step 5: To Update, create, delete and get any information about "Tags", open Insomnia and follow the steps accroding to the video bellow.
 
-* ![Step-5](images/Step_5.png)
+https://drive.google.com/file/d/15AnAxIsOHWxqq79Q05mKxP3vZpDLTPVE/view?usp=sharing
 
 - Step 6: Now you are ready to use the app. Use any of the prompts provided (View Employee, View Roles, Add employee, etc) 
 
