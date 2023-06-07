@@ -26,7 +26,7 @@ Step 1: Before running the program you will need to create a ".env" file. On thi
 * DB_PW = "YOUR MYSQL PASSWORD"
 * DB_NAME = ecommerce_db
 
- ![.env](images/.env.png)
+ ![env](images/env.png)
 
 - Step 2: Follow the steps according to the video bellow:
 
