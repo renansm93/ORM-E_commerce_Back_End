@@ -44,9 +44,6 @@ https://drive.google.com/file/d/156J8CXaaJiqDvzuCe3av89bknnEdO6yJ/view?usp=shari
 
 https://drive.google.com/file/d/15AnAxIsOHWxqq79Q05mKxP3vZpDLTPVE/view?usp=sharing
 
-- Step 6: Now you are ready to use the app. Use any of the prompts provided (View Employee, View Roles, Add employee, etc) 
-
-
 
 ## License
 
